@@ -1,0 +1,37 @@
+[{
+    "sportUrl": "https://australiansportscamps.com.au/camps/hoffenheim/",
+    "sportTitle": "TSG Hoffenheim Football Camp",
+    "camps": [{
+        "title": "ACT TSG HOFFENHEIM SOCCER CAMP #TSG",
+        "place": "Canberra Grammar School",
+        "address": "40 Monaro Cres, Red Hill ACT 2603",
+        "lat": "-35.3310422",
+        "lon": "149.1256627",
+        "campUrl": "https://australiansportscamps.com.au/book/act-tsg-hoffenheim-soccer-camp/",
+        "mapUrl": "https://maps.google.com/maps?ll=-35.331042,149.125663&z=13&t=m&hl=en-US&gl=AU&mapclient=embed&daddr=Canberra%20Grammar%20School%2040%20Monaro%20Cres%20Red%20Hill%20ACT%202603@-35.3310422,149.1256627"
+    }, {
+        "title": "NSW TSG HOFFENHEIM SOCCER CAMP #TSG",
+        "place": "Centennial Parklands Sports Centre",
+        "address": "Cnr Anzac Parade &, Lang Rd, Moore Park NSW 2021",
+        "lat": "-33.8960941",
+        "lon": "151.2224498",
+        "campUrl": "https://australiansportscamps.com.au/book/nsw-tsg-hoffenheim-soccer-camp/",
+        "mapUrl": "https://maps.google.com/maps?ll=-33.896094,151.22245&z=16&t=m&hl=en&gl=AU&mapclient=embed&daddr=Centennial%20Parklands%20Sports%20Centre%20Cnr%20Anzac%20Parade%20%26%20Lang%20Rd%20Moore%20Park%20NSW%202021@-33.8960941,151.2224498"
+    }, {
+        "title": "QLD TSG HOFFENHEIM SOCCER CAMP #TSG",
+        "place": "Clairvaux MacKillop College",
+        "address": "Klumpp Rd, Upper Mount Gravatt QLD 4122",
+        "lat": "-27.5529648",
+        "lon": "153.0783462",
+        "campUrl": "https://australiansportscamps.com.au/book/qld-tsg-hoffenheim-soccer-camp/",
+        "mapUrl": "https://maps.google.com/maps?ll=-27.552965,153.078346&z=11&t=m&hl=en-US&gl=AU&mapclient=embed&daddr=Clairvaux%20MacKillop%20College%20Klumpp%20Rd%20Upper%20Mount%20Gravatt%20QLD%204122@-27.5529648,153.0783462"
+    }, {
+        "title": "VIC TSG HOFFENHEIM SOCCER CAMP #TSG",
+        "place": "Brighton Grammar School",
+        "address": "Brighton VIC 3186",
+        "lat": "-37.9083762",
+        "lon": "144.9919065",
+        "campUrl": "https://australiansportscamps.com.au/book/vic-tsg-hoffenheim-soccer-camp/",
+        "mapUrl": "https://maps.google.com/maps?ll=-37.908376,144.991907&z=11&t=m&hl=en-US&gl=AU&mapclient=embed&daddr=Brighton%20Grammar%20School%20Brighton%20VIC%203186@-37.9083762,144.9919065"
+    }]
+}]
